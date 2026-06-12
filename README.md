@@ -10,7 +10,7 @@ Full-stack developer. I build websites and web apps that actually work.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ## 📫 Contact me
-- 🌐 Website: [(https://zesty-tartufo-157b82.netlify.app/#contact)
+- 🌐 Website: https://zesty-tartufo-157b82.netlify.app/#contact
 - 📸 Instagram: [@vladyslav_rr](https://instagram.com/vladyslav_rr)
 - ✈️ Telegram: [@vlad_info](https://t.me/vlad_info)
 - 📧 Email: [webdesign.vladyslavrr@gmail.com](mailto:webdesign.vladyslavrr@gmail.com)
